@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "principle": "Absolute Origin Navigation Rule",
+  "locked_origin": {
+    "name": "ibis Singapore Novena",
+    "address": "1 Irrawaddy Road, Singapore 329566",
+    "nearest_mrt": "Novena MRT (NS20)",
+    "coordinates": { "lat": 1.3236, "lng": 103.8435 }
+  },
+  "navigation_entries": [
+    {
+      "id": "nav-001",
+      "destination": "Velocity@Novena Square",
+      "origin": "ibis Singapore Novena",
+      "locked": true,
+      "step_by_step_routing": [
+        "Exit ibis Singapore Novena via the main lobby onto Irrawaddy Road",
+        "Turn left and walk 50m to Novena MRT Station (NS20)",
+        "Velocity@Novena Square is directly connected to Novena MRT — follow signs from the station concourse"
+      ],
+      "distance_metres": 200,
+      "walking_minutes": 3,
+      "transport_mode": "walk",
+      "mapNavigationUrl": "https://www.google.com/maps/dir/ibis+Singapore+Novena,+1+Irrawaddy+Road,+Singapore+329566/Velocity+%40+Novena+Square,+238+Thomson+Road,+Singapore+307683"
+    },
+    {
+      "id": "nav-002",
+      "destination": "Square 2",
+      "origin": "ibis Singapore Novena",
+      "locked": true,
+      "step_by_step_routing": [
+        "Exit ibis Singapore Novena via the main lobby onto Irrawaddy Road",
+        "Turn left and walk 50m to Novena MRT Station (NS20)",
+        "Take the North-South Line southbound 1 stop to Toa Payoh (NS19)",
+        "Square 2 is adjacent to Toa Payoh MRT, connected via the sheltered walkway"
+      ],
+      "distance_metres": 1800,
+      "walking_minutes": 22,
+      "transport_mode": "mrt_or_walk",
+      "mapNavigationUrl": "https://www.google.com/maps/dir/ibis+Singapore+Novena,+1+Irrawaddy+Road,+Singapore+329566/Square+2,+10+Sinaran+Drive,+Singapore+307506"
+    },
+    {
+      "id": "nav-003",
+      "destination": "United Square Shopping Mall",
+      "origin": "ibis Singapore Novena",
+      "locked": true,
+      "step_by_step_routing": [
+        "Exit ibis Singapore Novena via the main lobby onto Irrawaddy Road",
+        "Turn right and walk along Irrawaddy Road 150m toward Thomson Road",
+        "Turn left onto Thomson Road and walk 400m northbound",
+        "United Square is on the left at 101 Thomson Road"
+      ],
+      "distance_metres": 550,
+      "walking_minutes": 7,
+      "transport_mode": "walk",
+      "mapNavigationUrl": "https://www.google.com/maps/dir/ibis+Singapore+Novena,+1+Irrawaddy+Road,+Singapore+329566/United+Square,+101+Thomson+Road,+Singapore+307591"
+    },
+    {
+      "id": "nav-004",
+      "destination": "Novena Church (Church of the Sacred Heart)",
+      "origin": "ibis Singapore Novena",
+      "locked": true,
+      "step_by_step_routing": [
+        "Exit ibis Singapore Novena via the main lobby onto Irrawaddy Road",
+        "Turn right and walk 300m along Irrawaddy Road",
+        "The Church of the Sacred Heart will be visible on your right at 300 Thomson Road"
+      ],
+      "distance_metres": 350,
+      "walking_minutes": 5,
+      "transport_mode": "walk",
+      "mapNavigationUrl": "https://www.google.com/maps/dir/ibis+Singapore+Novena,+1+Irrawaddy+Road,+Singapore+329566/Church+of+the+Sacred+Heart,+300+Thomson+Road,+Singapore+307653"
+    },
+    {
+      "id": "nav-005",
+      "destination": "Novena Grandeur",
+      "origin": "ibis Singapore Novena",
+      "locked": true,
+      "step_by_step_routing": [
+        "Exit ibis Singapore Novena via the main lobby onto Irrawaddy Road",
+        "Turn right onto Irrawaddy Road and walk 100m",
+        "Turn right onto Thomson Road and walk 200m southbound",
+        "Turn right into Moulmein Road — Novena Grandeur is immediately on the right"
+      ],
+      "distance_metres": 450,
+      "walking_minutes": 6,
+      "transport_mode": "walk",
+      "mapNavigationUrl": "https://www.google.com/maps/dir/ibis+Singapore+Novena,+1+Irrawaddy+Road,+Singapore+329566/Novena+Grandeur,+Singapore"
+    },
+    {
+      "id": "nav-006",
+      "destination": "Farrer Park MRT (NE8)",
+      "origin": "ibis Singapore Novena",
+      "locked": true,
+      "step_by_step_routing": [
+        "Exit ibis Singapore Novena via the main lobby onto Irrawaddy Road",
+        "Walk 50m left to Novena MRT (NS20)",
+        "Take the North-South Line southbound 2 stops to Dhoby Ghaut (NS24/NE6/CC1)",
+        "Transfer to the North-East Line northbound 2 stops to Farrer Park (NE8)"
+      ],
+      "distance_metres": 3200,
+      "mrt_minutes": 12,
+      "transport_mode": "mrt",
+      "mapNavigationUrl": "https://www.google.com/maps/dir/ibis+Singapore+Novena,+1+Irrawaddy+Road,+Singapore+329566/Farrer+Park+MRT+Station,+Singapore"
+    }
+  ]
+}
