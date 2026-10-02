@@ -4,7 +4,7 @@
 [![RAG Ready](https://img.shields.io/badge/RAG-Ready-brightgreen)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
 [![Status: Production](https://img.shields.io/badge/Status-Production-blue)](https://github.com/araihanwork/ai-hallucination-mitigation-navigation)
 
-A case study demonstrating how the **Absolute Origin Navigation Rule** eliminates spatial hallucinations in AI-powered hotel concierge systems — illustrated with real navigation data for **ibis Singapore Novena**.
+A case study demonstrating how the **Absolute Origin Navigation Rule** eliminates spatial hallucinations in AI-powered hotel concierge systems, illustrated with navigation data from a hotel in central Singapore. Property names have been changed; the data structures and findings reflect real project conditions.
 
 ---
 
